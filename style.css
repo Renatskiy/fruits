@@ -1,0 +1,172 @@
+
+
+font-family: 'Ranga', cursive;
+font-family: 'Gloria Hallelujah', cursive;
+*{
+margin: 0;
+padding: 0;
+font-family: 'Roboto', sans-serif;
+}
+
+.container{
+	width: 1688px;
+	margin: -8px;
+
+}
+header {
+	width: 1688px;
+	height: 1155px;
+
+}
+.inst a{
+	background: url(img/Instagram-black.svg) no-repeat ;
+	
+	text-decoration: none;
+	height: 80px;
+	width: 50px;
+	margin-left: 1100px;
+	float: left;
+	margin-top: 20px;
+}
+.faic a{
+
+	background: url(img/Facebook-black.svg) no-repeat ;
+	
+	text-decoration: none;
+	height: 80px;
+	width: 80px;
+	margin-left: 50px;
+	float: left;
+	margin-top: 20px;
+	
+}
+.vk a{
+
+	background: url(img/vk_chb.png) no-repeat ;
+	
+	text-decoration: none;
+	height: 80px;
+	width: 63px;
+	margin-left:  20px;
+	float: left;
+	margin-top: 7px;
+}
+.middle a{
+	background: url(img/wall.jpg);
+	border-radius: 15px;
+	font-size: 50px;
+	color: #ffffff;
+	float: right;
+	margin-top: -50px;
+	margin-right: 50px;
+	height: 150px;
+	width: 380px;
+	line-height: 145px; 
+	text-decoration: none;
+	padding-left: 30px;
+}
+.top_foto {
+	background: url(img/top_chb.jpg);
+	background-size: 100%;
+	float: center;
+	width: 1688px;
+	height: 1130px;
+	padding-top: 30px;
+}
+
+.middle{
+	background: url(img/wall.jpg);
+	height: 800px;
+	width: 1688px;
+}
+.ikon_phone{
+	background: url(img/telephone_icon.png);
+	height: 64px;
+	width: 64px;
+	float: left;
+	margin-left: 550px;
+	margin-top: 85px;
+
+}
+
+.taste{
+	background-color: #DCDCDC;
+	height: 50px;
+	width: 200px;
+	margin-left: 20px;
+	margin-top: 100px;
+	float: left;
+	text-align: center;
+	line-height: 50px;
+	border-top-left-radius: 10px;
+	border-bottom-left-radius: 10px;
+
+}
+.taste1{
+	background-color: #FFA500;
+	height: 50px;
+	width: 200px;
+	margin-left: 820px;
+	margin-top: 125px;
+	text-align: center;
+	line-height: 50px;
+	border-top-right-radius: 10px;
+	border-bottom-right-radius: 10px;
+
+}
+.taste1 a{
+	text-decoration:none;
+	color: #000000
+}
+
+.about_us{
+	height: 2500px;
+	width: 1688px;
+	background: url(img/ramka.jpg) no-repeat;
+}
+.about_us1{
+	height: 571px;
+	width: 1688px;
+	background: url(img/ramka1.png) no-repeat;
+}
+h1 {
+	font-size: 60px;
+	color: #000000;
+	font-family: 'Gloria Hallelujah', cursive;
+	text-align: center;
+	margin-top: 150px;
+	margin-left: 0px;
+}
+.top_foto h2{
+	text-align: center;
+	font-size: 30px;
+	color: #000000;
+	font-family: 'Gloria Hallelujah', cursive;
+	margin-top: 150px;
+	margin-left: 280px;
+	margin-right: 350px;
+	line-height: 50px;
+	text-align: center;
+}
+									/*		.manifest h2{
+												font-size: 30px;
+												color: #000000;
+												font-family: 'Gloria Hallelujah', cursive;
+												margin-top: -40px;
+												margin-left: 60px;
+												line-height: 50px;
+											}
+											.manifest h1 {
+												font-size: 60px;
+												color: #000000;
+												font-family: 'Gloria Hallelujah', cursive;
+												padding-top: 25px;
+												margin-top: 25px;
+												margin-left: 470px;
+											}*/
+
+.we_work {
+	background: url(img/wall.jpg);
+	width: 1688px;
+	height: 800px;
+}
